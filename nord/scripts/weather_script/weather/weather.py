@@ -7,7 +7,7 @@ from colored import attr, bg, fg
 # This API KEY is for my personal usage.
 # Please get your own API KEY here https://openweathermap.org/api,
 # because the number of request per day is limited.
-OPENWEATHER_API_KEY = "970606528befaa317698cc75083db8b2"
+OPENWEATHER_API_KEY = "1f6ca239589943bb43537127f50eafd2"
 OPENWEATHER_URL = "https://api.openweathermap.org/data/2.5/weather"
 
 
